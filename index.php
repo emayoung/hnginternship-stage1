@@ -4,8 +4,6 @@
 
 <?php
 
-require 'configure.php';
-
 $user_name = "root";
 $password = "";
 $database = "addressbook";
